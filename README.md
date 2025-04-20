@@ -1,4 +1,4 @@
-# DataVisionX
+# DataVision
 
 ## 📊 Projektbeschreibung
 Dieses Projekt verwendet zwei Datensätze, um verschiedene Methoden der Data Science zu demonstrieren:
