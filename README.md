@@ -30,16 +30,16 @@ Das Projekt folgt den CRISP-DM Phasen:
 
 ## 📁 Projektstruktur
 
-| Ordner / Datei           | Beschreibung                          |
-|--------------------------|----------------------------------------|
-| 📂 dataset/              | Enthält die CSV-Datensätze             |
-| ├── 📄 crypto_data.csv   | Kryptodaten                            |
-| └── 📄 ecommerce_data.csv| E-Commerce-Kundendaten                 |
-| 📂 notebooks/            | Jupyter Notebooks für Analysen         |
-| ├── 📓 crypto_analysis.ipynb | Analyse des Kryptomarkts         |
+| Ordner / Datei                  | Beschreibung                          |
+|---------------------------------|----------------------------------------|
+| 📂 dataset/                     | Enthält die CSV-Datensätze             |
+| ├── 📂 crypto/                  | Alle Kryptowährungen CSV-Dateien       |
+| └── 📄 ecommerce_data.csv       | E-Commerce-Kundendaten                 |
+| 📂 notebooks/                   | Jupyter Notebooks für Analysen         |
+| ├── 📓 crypto_analysis.ipynb    | Analyse des Kryptomarkts         |
 | └── 📓 ecommerce_analysis.ipynb | Analyse des Kaufverhaltens   |
-| 📄 README.md             | Projektbeschreibung                    |
-| 📄 requirements.txt      | Liste der Python-Abhängigkeiten        |
+| 📄 README.md                    | Projektbeschreibung                    |
+| 📄 requirements.txt             | Liste der Python-Abhängigkeiten        |
 
 
 ## 🔖 Lizenz
