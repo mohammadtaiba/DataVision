@@ -3,7 +3,7 @@
 ## 📊 Projektbeschreibung
 Dieses Projekt verwendet zwei Datensätze, um verschiedene Methoden der Data Science zu demonstrieren:
 
-1. **Cryptocurrency Price History** – Analyse von BTC-Preisverlauf und Marktverhalten
+1. **BTC Price History** – Analyse von BTC-Preisverlauf und Marktverhalten
 2. **Ecommerce Consumer Behavior** – Untersuchung von Kaufverhalten im Onlinehandel
 
 ## 🎯 Ziel
