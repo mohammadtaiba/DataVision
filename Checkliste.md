@@ -10,7 +10,7 @@
 
 ### ✅ **2. Data Understanding & Preparation**
 
-* [ ] **Data Description Report erstellen** – Welche Variablen? Welche Typen? Mengen?
+* [x] **Data Description Report erstellen** – Welche Variablen? Welche Typen? Mengen?
 * [ ] **Datensätze zusammenführen** – z. B. BTC mit technischen Indikatoren kombinieren.
 * [ ] **Bereinigung & Aufbereitung** – Fehlende Werte, korrekte Formate.
 * [ ] **Berechnungen**:
@@ -47,8 +47,8 @@
 
 ### ✅ **5. Evaluation & Deployment**
 
-* [ ] **Bewertung der Ergebnisse bezogen auf Ziele**
-* [ ] **Finaler Report (Jupyter + Word/PDF)**
+* [ ] **Bewertung der Ergebnisse bezüglich der Ziele und Erfolgskriterien**
+* [ ] **Erstellung eines finalen Reports**
 * [ ] **Review durchführen**
 
 ---
