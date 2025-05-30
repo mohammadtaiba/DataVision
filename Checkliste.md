@@ -10,9 +10,9 @@
 
 ### ✅ **2. Data Understanding & Preparation**
 
-* [x] **Data Description Report erstellen** – Welche Variablen? Welche Typen? Mengen?
-* [ ] **Datensätze zusammenführen** – z. B. BTC mit technischen Indikatoren kombinieren.
-* [ ] **Bereinigung & Aufbereitung** – Fehlende Werte, korrekte Formate.
+* [x] **Data Description Report erstellen** 
+* [x] **Bereinigung & Aufbereitung**
+* [ ] **Datensätze zusammenführen**
 * [ ] **Berechnungen**:
 
   * Mittelwert, Median, Standardabweichung, IQR
