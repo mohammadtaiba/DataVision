@@ -12,7 +12,7 @@
 
 * [x] **Data Description Report erstellen** 
 * [x] **Bereinigung & Aufbereitung**
-* [ ] **Datensätze zusammenführen**
+* [x] **Datensätze zusammenführen**
 * [ ] **Berechnungen**:
 
   * Mittelwert, Median, Standardabweichung, IQR
@@ -50,12 +50,3 @@
 * [ ] **Bewertung der Ergebnisse bezüglich der Ziele und Erfolgskriterien**
 * [ ] **Erstellung eines finalen Reports**
 * [ ] **Review durchführen**
-
----
-
-### ✅ **6. Formalitäten**
-
-* [ ] Hausarbeit: Notebook + Word/PDF
-* [ ] Zwischenpräsentation vorbereiten
-* [ ] Abschlusspräsentation vorbereiten
-* [ ] Letzter Commit auf Branch `release` vor **07.07.23, 23:59 Uhr**
