@@ -13,7 +13,7 @@
 * [x] **Data Description Report erstellen** 
 * [x] **Bereinigung & Aufbereitung**
 * [x] **Datensätze zusammenführen**
-* [ ] **Berechnungen**:
+* [x] **Berechnungen**:
 
   * Mittelwert, Median, Standardabweichung, IQR
   * Konfidenzintervalle für alle vier
