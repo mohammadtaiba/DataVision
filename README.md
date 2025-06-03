@@ -7,7 +7,7 @@ Dieses Projekt verwendet zwei Finanzdatensätze, um verschiedene Methoden der Da
 Dieses Projekt basiert auf drei Finanzdatensätzen: Bitcoin-Preisdaten, Gold-Preisdaten und einem erweiterten BTC-Datensatz mit technischen Indikatoren.
 
 1. **Bitcoin Price History** – Analyse des Preisverlaufs und der Volatilität von Bitcoin
-1. **Bitcoin Price History** – Analyse des Preisverlaufs, der Volatilität und technischer Indikatoren von Bitcoin
+1. **Bitcoin Price History mit technischer Indikatoren** – Analyse des Preisverlaufs, der Volatilität und technischer Indikatoren von Bitcoin
 2. **Gold Price History** – Untersuchung der Preisentwicklung und Stabilität von Gold
 
 Im Fokus steht der Vergleich beider Anlageklassen anhand von statistischen Kennzahlen, Visualisierungen und Hypothesentests.
