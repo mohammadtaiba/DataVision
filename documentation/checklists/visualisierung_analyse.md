@@ -8,7 +8,7 @@
 - [ ] Hexagonales Binning: Bitcoin-Schlusskurs vs. Handelsvolumen zur Darstellung dichter Bereiche
 
 ## In `btc_vs_gold.ipynb`
-- [ ] Streudiagramm: Bitcoin-Schlusskurs vs. Gold-Schlusskurs (gleiche Tage)
+- [x] Streudiagramm: Bitcoin-Schlusskurs vs. Gold-Schlusskurs (gleiche Tage)
 - [x] Boxplot: Tägliche Renditen von Bitcoin (ret_btc) und Gold (ret_xau) im Vergleich
 - [x] Hexagonales Binning: Tägliche Rendite von Bitcoin vs. tägliche Rendite von Gold
 
@@ -20,5 +20,4 @@
   * [ ] Korrelationen:
     * [ ] RSI, MACD und MA_20 im Vergleich zum Bitcoin-Schlusskurs (`btc_technical_analysis.ipynb`)
     * [x] Bitcoin-Schlusskurs im Vergleich zum Gold-Schlusskurs (`btc_vs_gold.ipynb`)
-  * [ ] Kontingenz-/Kreuztabellen:
-    * [ ] Preislevel vs. Handelssignal oder Trendlinie (`btc_technical_analysis.ipynb`)
+  * [x] Kontingenz-/Kreuztabellen: Analyse der Preisbereiche von Bitcoin und Gold
