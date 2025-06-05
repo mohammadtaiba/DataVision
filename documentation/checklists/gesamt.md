@@ -17,19 +17,19 @@
 
   * Mittelwert, Median, Standardabweichung, IQR
   * Konfidenzintervalle für alle vier
-* [ ] **Visualisierungen erstellen**:
+* [x] **Visualisierungen erstellen**:
 
   * Streudiagramme, Hex-Binning, Boxplots
-* [ ] **Analysen durchführen**:
+* [x] **Analysen durchführen**:
 
   * Korrelationen
-  * Kontingenz-/Kreuztabellen (z. B. Preislevel vs. Signal)
+  * Kontingenz-/Kreuztabellen
 
 ---
 
 ### ✅ **3. Data Analysis (Hypothesentests)**
 
-* [ ] **Mind. 3 Hypothesentests mit Bootstrap-Sampling**:
+* [x] **Mind. 3 Hypothesentests mit Bootstrap-Sampling**:
 
   * t-Test (z. B. BTC-Mittelwert vor/nach Ereignis)
   * ANOVA (z. B. verschiedene Zeiträume vergleichen)
