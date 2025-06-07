@@ -39,9 +39,9 @@
 
 ### ✅ **4. Modeling (optional, für Bonuspunkte)**
 
-* [ ] **MLR / Gewichtete MLR** – z. B. Preis als Zielvariable, Indikatoren als Features
-* [ ] **Naiver Bayes oder LDA** – Klassifikation von Marktphasen
-* [ ] **Logistische Regression** – Optional für zusätzliche Punkte
+* [x] **MLR / Gewichtete MLR**
+* [x] **Naiver Bayes oder LDA**
+* [x] **Entscheidungsbäume / Random Forest**
 
 ---
 
