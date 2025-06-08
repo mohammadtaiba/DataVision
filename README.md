@@ -3,16 +3,14 @@
 ---
 
 ## 📊 Projektbeschreibung
-Dieses Projekt verwendet zwei Finanzdatensätze, um verschiedene Methoden der Data Science zu demonstrieren:
-Dieses Projekt basiert auf drei Finanzdatensätzen: Bitcoin-Preisdaten, Gold-Preisdaten und einem erweiterten BTC-Datensatz mit technischen Indikatoren.
+Dieses Projekt verwendet zwei Finanzdatensätze (Bitcoin-Preisdaten, Gold-Preisdaten), um verschiedene Methoden der Data Science zu demonstrieren:
 
 1. **Bitcoin Price History** – Analyse des Preisverlaufs und der Volatilität von Bitcoin
-1. **Bitcoin Price History mit technischer Indikatoren** – Analyse des Preisverlaufs, der Volatilität und technischer Indikatoren von Bitcoin
 2. **Gold Price History** – Untersuchung der Preisentwicklung und Stabilität von Gold
 
 Im Fokus steht der Vergleich beider Anlageklassen anhand von statistischen Kennzahlen, Visualisierungen und Hypothesentests.
-Zusätzlich wird ein erweiterter Bitcoin-Datensatz verwendet, der verschiedene technische Indikatoren enthält  
-(z.B. Moving Averages `20, 50, 200`, RSI, MACD, ...), um marktbezogene Muster und Handelssignale zu analysieren.
+Zusätzlich wird die Datensätze mit verschiedenen technischen Indikatoren erweitert
+(z.B. Moving Averages `20`, RSI, MACD, ...), um marktbezogene Muster und Handelssignale zu analysieren.
 
 ---
 
@@ -88,29 +86,19 @@ Das Projekt folgt den CRISP-DM Phasen:
 
 ## 📁 Projektstruktur
 
-| Ordner / Datei                  | Beschreibung                           |
-|----------------------------------|----------------------------------------|
-| 📂 dataset/                      | Enthält die CSV-Datensätze             |
-| ├── 📄 BTCUSD_1d_analysis.csv    | Bitcoin-Preisdaten                     |
-| └── 📄 XAUUSD_1d_analysis.csv    | Gold-Preisdaten                        |
-| 📂 notebooks/                    | Jupyter Notebooks für Analysen         |
-| ├── 📓 BTCUSD_1d_analysis.ipynb  | Analyse des Bitcoin-Preisverlaufs      |
-| └── 📓 XAUUSD_1d_analysis.ipynb  | Analyse des Gold-Preisverlaufs         |
-| 📄 README.md                     | Projektbeschreibung                    |
-| 📄 requirements.txt              | Liste der Python-Abhängigkeiten        |
-| Ordner / Datei                   | Beschreibung                             |
-|----------------------------------|------------------------------------------|
-| 📂 dataset/                      | Enthält die CSV- oder Parquet-Datensätze |
-| ├── 📄 BTCUSD_1d_analysis.csv    | Bitcoin-Preisdaten                       |
-| └── 📄 XAUUSD_1d_analysis.csv    | Gold-Preisdaten                          |
-| 📂 notebooks/                    | Jupyter Notebooks für Analysen           |
-| ├── 📓 BTCUSD_1d_analysis.ipynb  | Analyse des Bitcoin-Preisverlaufs        |
-| ├── 📓 XAUUSD_1d_analysis.ipynb  | Analyse des Gold-Preisverlaufs           |
-| └── 📓 btc_technical_analysis.ipynb | Technische Analyse von BTC (Indikatoren) |
-| 📄 README.md                     | Projektbeschreibung                      |
-| 📄 requirements.txt              | Liste der Python-Abhängigkeiten          |
+| Ordner / Datei     | Beschreibung                           |
+|--------------------|----------------------------------------|
+| 📂 dataset/        | Enthält die CSV-Datensätze             |
+| ├── 📂  input/     | csv-dateien -> importiert     |
+| └── 📂  output     | csv-dateien -> bereinigt & vorbereitet |
+| 📂 Docomentation/  | Dokomentation                          |
+| 📂 notebooks/      | Jupyter Notebooks für Analysen         |
+| 📄 .gitignore     | unnötige Dateiein ignorieren           |
+| 📄 README.md       | Projektbeschreibung                    |
+| 📄 requirements.txt | Liste der Python-Abhängigkeiten        |
 
 ---
+
 
 ## 🔖 Lizenz
 Dieses Projekt ist unter keiner spezifischen Lizenz veröffentlicht.
