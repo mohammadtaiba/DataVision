@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d793ba59-70ee-4eff-819e-3957c858c0df" name="Changes" comment="Update: README.md">
+      <change afterPath="$PROJECT_DIR$/data-vision-site/docs/assets/extra.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-vision-site/docs/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-vision-site/docs/btc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-vision-site/docs/btc_vs_xau.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-vision-site/docs/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-vision-site/docs/indicators.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-vision-site/docs/notebooks/btc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-vision-site/docs/notebooks/btc_vs_xau.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-vision-site/docs/notebooks/files/btc.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-vision-site/docs/notebooks/files/btc_vs_xau.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-vision-site/docs/notebooks/files/indicators.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-vision-site/docs/notebooks/files/xau.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-vision-site/docs/notebooks/indicators.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-vision-site/docs/notebooks/xau.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-vision-site/docs/setup.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-vision-site/docs/xau.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-vision-site/mkdocs.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mohammadtaiba&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mohammadtaiba/DataVision&quot;,
+    &quot;accountId&quot;: &quot;ad386e4f-e65c-466a-b6b1-020b040692d7&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2vzMnhfr8IJGfDGoaeEfT9PMsgu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/moham/IdeaProjects/DataVision/data-vision-site&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\moham\IdeaProjects\DataVision\data-vision-site" />
+      <recent name="C:\Users\moham\IdeaProjects\DataVision\notebooks" />
+      <recent name="C:\Users\moham\IdeaProjects\DataVision\notebooks\dataset" />
+      <recent name="C:\Users\moham\IdeaProjects\DataVision\dataset" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\moham\IdeaProjects\DataVision\data-vision-site\docs" />
+      <recent name="C:\Users\moham\IdeaProjects\DataVision\data-vision-site\docs\assets" />
+      <recent name="C:\Users\moham\IdeaProjects\DataVision\data-vision-site\Sites" />
+      <recent name="C:\Users\moham\IdeaProjects\DataVision" />
+      <recent name="C:\Users\moham\IdeaProjects\DataVision\notebooks" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-PY-251.23774.444" />
+        <option value="bundled-python-sdk-890ed5b35930-d9c5bdb153f4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.23774.444" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d793ba59-70ee-4eff-819e-3957c858c0df" name="Changes" comment="" />
+      <created>1745143617306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745143617306</updated>
+      <workItem from="1745143618369" duration="2394000" />
+      <workItem from="1745147568092" duration="204000" />
+      <workItem from="1745147778435" duration="155000" />
+      <workItem from="1745148355808" duration="5077000" />
+      <workItem from="1745157923779" duration="702000" />
+      <workItem from="1745158638807" duration="3607000" />
+      <workItem from="1745227376593" duration="13000" />
+      <workItem from="1745228003955" duration="6000" />
+      <workItem from="1745834513733" duration="601000" />
+      <workItem from="1745866553693" duration="456000" />
+      <workItem from="1745947456097" duration="1000" />
+      <workItem from="1746208451668" duration="605000" />
+      <workItem from="1747252388505" duration="35000" />
+      <workItem from="1747335366942" duration="24000" />
+      <workItem from="1747335962784" duration="43000" />
+      <workItem from="1747402418225" duration="12000" />
+      <workItem from="1747586408259" duration="23894000" />
+      <workItem from="1747722371000" duration="14717000" />
+      <workItem from="1747840308377" duration="70000" />
+      <workItem from="1748282044842" duration="25986000" />
+      <workItem from="1748587684004" duration="2960000" />
+      <workItem from="1748592351492" duration="2969000" />
+      <workItem from="1748596606051" duration="28348000" />
+      <workItem from="1748958785100" duration="13244000" />
+      <workItem from="1749048590601" duration="463000" />
+      <workItem from="1749049071814" duration="40981000" />
+      <workItem from="1749231932768" duration="13167000" />
+      <workItem from="1749247793522" duration="715000" />
+      <workItem from="1749248523424" duration="926000" />
+      <workItem from="1749249475574" duration="114000" />
+      <workItem from="1749249607350" duration="1671000" />
+      <workItem from="1749251296700" duration="20030000" />
+      <workItem from="1749307270447" duration="49000" />
+      <workItem from="1749307331892" duration="6008000" />
+      <workItem from="1749313380866" duration="607000" />
+      <workItem from="1749358529650" duration="20184000" />
+      <workItem from="1749587307586" duration="55000" />
+      <workItem from="1749799401711" duration="1000" />
+      <workItem from="1750265142464" duration="11000" />
+      <workItem from="1750315598746" duration="10757000" />
+      <workItem from="1750331113858" duration="470000" />
+      <workItem from="1750331620233" duration="7911000" />
+      <workItem from="1750366997338" duration="7017000" />
+      <workItem from="1750788964466" duration="1994000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add Datasets">
+      <option name="closed" value="true" />
+      <created>1745834660938</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745834660938</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updating Datasets: Adding Technical Analysis">
+      <option name="closed" value="true" />
+      <created>1747601370312</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747601370313</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updating Mark down files">
+      <option name="closed" value="true" />
+      <created>1747601449347</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747601449347</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add checklist-file as md">
+      <option name="closed" value="true" />
+      <created>1747601490415</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1747601490415</updated>
+    </task>
+    <task id="LOCAL-00005" summary="updating README.md">
+      <option name="closed" value="true" />
+      <created>1747601506283</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1747601506283</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Create Data Description Report for BTC">
+      <option name="closed" value="true" />
+      <created>1747725809321</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1747725809321</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Create Data Description Report for XAU">
+      <option name="closed" value="true" />
+      <created>1747725834403</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1747725834403</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Update Checkliste.md">
+      <option name="closed" value="true" />
+      <created>1747725865502</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1747725865502</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Create Data Description Report for BTC-Technical Indicators">
+      <option name="closed" value="true" />
+      <created>1747772716473</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1747772716473</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add README-section for: BTC &amp; XAU">
+      <option name="closed" value="true" />
+      <created>1747772780356</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1747772780356</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Bereinigung &amp; Aufbereitung für BTC-Indikatoren erledigt.">
+      <option name="closed" value="true" />
+      <created>1748597794193</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1748597794193</updated>
+    </task>
+    <task id="LOCAL-00012" summary="ordner-strukture für datasets geändert">
+      <option name="closed" value="true" />
+      <created>1748597866053</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1748597866053</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Bereinigung &amp; Aufbereitung für `BTCUSD_1d_analysis.ipynb` erledigt.">
+      <option name="closed" value="true" />
+      <created>1748597947287</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1748597947287</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Bereinigung &amp; Aufbereitung für `XUAUSD_1d_analysis.ipynb` erledigt.">
+      <option name="closed" value="true" />
+      <created>1748597987940</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1748597987940</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Die Schritt &quot;Bereinigung &amp; Aufbereitung&quot; ist vollständig erledigt.">
+      <option name="closed" value="true" />
+      <created>1748598041391</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1748598041391</updated>
+    </task>
+    <task id="LOCAL-00016" summary="`btc_technical_analysis.ipynb` Resampling auf halbstündliche Intervalle abgeschlossen">
+      <option name="closed" value="true" />
+      <created>1748681082079</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1748681082079</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Datenintegration BTC + XAU">
+      <option name="closed" value="true" />
+      <created>1748696973246</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1748696973246</updated>
+    </task>
+    <task id="LOCAL-00018" summary="&quot;Datensätze zusammenführen&quot; erledigt">
+      <option name="closed" value="true" />
+      <created>1748697202970</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1748697202970</updated>
+    </task>
+    <task id="LOCAL-00019" summary="&quot;Berechnungen&quot; erledigt in `btc_vs_gold.ipynb`">
+      <option name="closed" value="true" />
+      <created>1748786869581</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1748786869581</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Checkliste für Visualisierung und Analyse hinzugefügt">
+      <option name="closed" value="true" />
+      <created>1748797333653</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1748797333653</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Renaming">
+      <option name="closed" value="true" />
+      <created>1748804028456</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1748804028456</updated>
+    </task>
+    <task id="LOCAL-00022" summary="README.md">
+      <option name="closed" value="true" />
+      <created>1748960240219</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1748960240219</updated>
+    </task>
+    <task id="LOCAL-00023" summary="README.md">
+      <option name="closed" value="true" />
+      <created>1748962268367</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1748962268367</updated>
+    </task>
+    <task id="LOCAL-00024" summary="README.md">
+      <option name="closed" value="true" />
+      <created>1748962531751</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1748962531751</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Streudiagramm + Kontingenz in `btc_vs_gold.ipynb´ erstellt">
+      <option name="closed" value="true" />
+      <created>1749076956417</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1749076956417</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Hypothesentests in `btc_vs_gold.ipynb´ erstellt">
+      <option name="closed" value="true" />
+      <created>1749147422635</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1749147422635</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Dateien-Indikatoren mit halbstunden einträgen werden komplett entfernet.">
+      <option name="closed" value="true" />
+      <created>1749235629609</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1749235629609</updated>
+    </task>
+    <task id="LOCAL-00028" summary="UPDATE requirements.txt">
+      <option name="closed" value="true" />
+      <created>1749235662179</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1749235662179</updated>
+    </task>
+    <task id="LOCAL-00029" summary="UPDATE: final_merged_dataset.csv in final_merged_BTC_XAU.csv Umbennet">
+      <option name="closed" value="true" />
+      <created>1749235746340</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1749235746340</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Add technical indicator datasets and merged file for BTC and XAU">
+      <option name="closed" value="true" />
+      <created>1749235927806</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1749235927806</updated>
+    </task>
+    <task id="LOCAL-00031" summary="DELETE: techische Indikatoren für 30 min nicht mehr nötig!">
+      <option name="closed" value="true" />
+      <created>1749236034001</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1749236034001</updated>
+    </task>
+    <task id="LOCAL-00032" summary="DELETE: techische Indikatoren für 30 min nicht mehr nötig!">
+      <option name="closed" value="true" />
+      <created>1749238153714</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1749238153714</updated>
+    </task>
+    <task id="LOCAL-00033" summary="umbennung">
+      <option name="closed" value="true" />
+      <created>1749246716645</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1749246716645</updated>
+    </task>
+    <task id="LOCAL-00034" summary="umbennung">
+      <option name="closed" value="true" />
+      <created>1749247379883</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1749247379883</updated>
+    </task>
+    <task id="LOCAL-00035" summary="umbennung und Inkikatoren hinzufügen mit einer Analyse">
+      <option name="closed" value="true" />
+      <created>1749280610873</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1749280610873</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Inkikatoren hinzufügen mit einer Analyse">
+      <option name="closed" value="true" />
+      <created>1749281103815</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1749281103815</updated>
+    </task>
+    <task id="LOCAL-00037" summary="update .gitignore">
+      <option name="closed" value="true" />
+      <created>1749281195882</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1749281195882</updated>
+    </task>
+    <task id="LOCAL-00038" summary="t-test &amp; anova: erstellt">
+      <option name="closed" value="true" />
+      <created>1749285386856</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1749285386856</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Update: Linearen Regressionsmodell zur Vorhersage des Gold- &amp; Bitcoin-Schlusskurses">
+      <option name="closed" value="true" />
+      <created>1749294591721</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1749294591721</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Update: Linearen Regressionsmodell zur Vorhersage des Bitcoin-Schlusskurses">
+      <option name="closed" value="true" />
+      <created>1749296336860</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1749296336860</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Update -&gt; Modellierung: Klassifikation von Marktphasen">
+      <option name="closed" value="true" />
+      <created>1749309351981</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1749309351981</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Modellierung: erledigt">
+      <option name="closed" value="true" />
+      <created>1749312876685</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1749312876685</updated>
+    </task>
+    <task id="LOCAL-00043" summary="update .gitignore">
+      <option name="closed" value="true" />
+      <created>1749313027014</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1749313027014</updated>
+    </task>
+    <task id="LOCAL-00044" summary="chickliste erledigt">
+      <option name="closed" value="true" />
+      <created>1749313242386</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1749313242386</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Update">
+      <option name="closed" value="true" />
+      <created>1749359335377</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1749359335377</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Update: Konfidenzintervalle der MLR-Koeffizienten">
+      <option name="closed" value="true" />
+      <created>1749359489566</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1749359489566</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Update: README.md">
+      <option name="closed" value="true" />
+      <created>1749360467503</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1749360467503</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Datensätze zusammenführen&quot; erledigt" />
+    <MESSAGE value="&quot;Berechnungen&quot; erledigt in `btc_vs_gold.ipynb`" />
+    <MESSAGE value="Checkliste für Visualisierung und Analyse hinzugefügt" />
+    <MESSAGE value="Renaming" />
+    <MESSAGE value="README.md" />
+    <MESSAGE value="Streudiagramm + Kontingenz in `btc_vs_gold.ipynb´ erstellt" />
+    <MESSAGE value="Hypothesentests in `btc_vs_gold.ipynb´ erstellt" />
+    <MESSAGE value="Dateien-Indikatoren mit halbstunden einträgen werden komplett entfernet." />
+    <MESSAGE value="UPDATE requirements.txt" />
+    <MESSAGE value="UPDATE: final_merged_dataset.csv in final_merged_BTC_XAU.csv Umbennet" />
+    <MESSAGE value="Add technical indicator datasets and merged file for BTC and XAU" />
+    <MESSAGE value="DELETE: techische Indikatoren für 30 min nicht mehr nötig!" />
+    <MESSAGE value="umbennung" />
+    <MESSAGE value="umbennung und Inkikatoren hinzufügen mit einer Analyse" />
+    <MESSAGE value="Inkikatoren hinzufügen mit einer Analyse" />
+    <MESSAGE value="t-test &amp; anova: erstellt" />
+    <MESSAGE value="Update: Linearen Regressionsmodell zur Vorhersage des Gold- &amp; Bitcoin-Schlusskurses" />
+    <MESSAGE value="Update: Linearen Regressionsmodell zur Vorhersage des Bitcoin-Schlusskurses" />
+    <MESSAGE value="Update -&gt; Modellierung: Klassifikation von Marktphasen" />
+    <MESSAGE value="Modellierung: erledigt" />
+    <MESSAGE value="update .gitignore" />
+    <MESSAGE value="chickliste erledigt" />
+    <MESSAGE value="Update" />
+    <MESSAGE value="Update: Konfidenzintervalle der MLR-Koeffizienten" />
+    <MESSAGE value="Update: README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update: README.md" />
+  </component>
+</project>

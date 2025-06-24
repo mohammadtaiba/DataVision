@@ -1,0 +1,46 @@
+site_name: DataVision
+
+theme:
+  name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Dunkelmodus aktivieren
+    - scheme: slate
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Hellmodus aktivieren
+  features:
+    - navigation.tabs
+    - navigation.top
+    - content.code.copy
+    - content.action.edit
+    - navigation.expand
+
+extra_css:
+  - assets/extra.css
+
+nav:
+  - Startseite: index.md
+  - BTC vs XAU:
+      - Allgemeine Analyse: btc_vs_xau.md
+      - Technische Indikatoren: indicators.md
+  - BTC Analyse: btc.md
+  - XAU Analyse: xau.md
+  - Setup: setup.md
+
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
