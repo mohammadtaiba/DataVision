@@ -21,7 +21,7 @@ DataVision ist ein Data-Science-Projekt zur vergleichenden Analyse von Bitcoin (
 - [Nutzung](#nutzung)
 - [Tests](#tests)
 - [Projektstruktur](#projektstruktur)
-- [Lizenz](#lizenz)
+- [License](#License)
 
 ## Projektziel
 
@@ -290,8 +290,8 @@ Empfohlene Struktur für das Repository:
 └── .gitignore
 ```
 
-## Lizenz
+## License
 
-Dieses Projekt dient Demonstrationszwecken. Eine Weiterverwendung ist nur nach Absprache erlaubt.
+Copyright (c) 2026 Mohammad Taiba. All rights reserved.
 
-Autor: Mohammad Taiba
+This project is published for portfolio and review purposes only. See [LICENSE](./LICENSE).
