@@ -272,22 +272,18 @@ Empfohlene manuelle Prüfungen:
 
 ## Projektstruktur
 
-Empfohlene Struktur für das Repository:
+Aktuelle Struktur des Repositorys:
 
 ```text
 .
-├── README.md
-├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── final_merged_dataset.csv
-├── docs/
-│   └── screenshots/
-├── notebooks/
-├── reports/
-├── src/
-├── requirements.txt
-└── .gitignore
+├── data-vision-site/  # MkDocs-Seite mit aufbereiteten Projektdokumenten
+├── dataset/           # Eingabe- und Ausgabedaten der Analyse
+├── docs/              # Screenshots und ergänzende Dokumentation
+├── notebooks/         # Jupyter-Notebooks für Datenanalyse und Visualisierung
+├── .gitignore         # Git-Ignorierregeln für lokale und generierte Dateien
+├── LICENSE            # Lizenzinformationen
+├── README.md          # Projektübersicht und Einstiegspunkt
+└── requirements.txt   # Python-Abhängigkeiten für den lokalen Start
 ```
 
 ## License
